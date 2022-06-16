@@ -1,0 +1,15 @@
+{
+  "name": "angular-formio.css",
+  "version": "1.0.0",
+  "description": "CSS for Form.io in Angular",
+  "main": "angular-formio.css",
+  "style": "angular-formio.css",
+  "files": [
+    "LICENSE.md",
+    "angular-formio.css"
+  ],
+  "repository": "thoaidt/angular-formio.css",
+  "license": "GPL-3.0",
+  "bugs": "https://github.com/thoaidt/angular-formio.css/issues",
+  "homepage": "https://github.com/thoaidt/angular-formio.css"
+}

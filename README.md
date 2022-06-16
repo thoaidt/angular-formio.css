@@ -1,2 +1,2 @@
-# thoai-isolated-bootstrap.css
-Use Bootstrap without any conflicts.
+# angular-formio.css
+CSS for Form.io in Angular.
